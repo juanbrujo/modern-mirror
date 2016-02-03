@@ -1,6 +1,6 @@
-# Smart Mirror
+# Modern Mirror
 
-My own smart-mirror project, based in [Smart Mirror](https://github.com/evancohen/smart-mirror) source.
+My own modern and informative mirror project, based in [Smart Mirror](https://github.com/evancohen/smart-mirror).
 
 ![](https://dl.dropboxusercontent.com/u/3522/smartmirror.png)
 
