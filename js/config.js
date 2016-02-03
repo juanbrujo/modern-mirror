@@ -1,0 +1,2 @@
+var FORCAST_API_KEY = "6d1fefec913e4331f1e88c684bc40c7b";
+var NYTIMES_API_KEY = "beabcdb1445a9d428c8e67c070b8babb:19:73127967";
